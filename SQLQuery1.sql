@@ -11,7 +11,7 @@ CREATE TABLE usuario(
 
 );
 
-select * from usuario;
+--select * from usuario;
 
 INSERT INTO usuario VALUES(1,'Ubiratan',38,'Rua dois');
 INSERT INTO usuario VALUES(2,'Jeiciary',38,'Rua 45');
