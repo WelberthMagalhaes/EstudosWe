@@ -1,0 +1,2 @@
+[27-Sep-2022 00:04:27 UTC] teste log
+[27-Sep-2022 00:09:05 UTC] PHP Warning:  Use of undefined constant selected - assumed 'selected' (this will throw an Error in a future version of PHP) in C:\Users\Philipe\Documents\estudos_WE\index.php on line 36
