@@ -1,0 +1,49 @@
+Mando, a seguir, um pequeno exercício pra gente verificar sua forma de trabalho...
+
+A aplicação deve ser feita com php puro, sem uso de framework ou outros facilitadores.
+
+se tiver alguma dúvida, fineza falar por aqui
+
+ Aplicação de demonstração de conhecimentos
+
+Objetivo: Permitir o controle de atendimentos de demandas de informática
+
+Entidades:
+
+1. Usuários
+	- id-usuario
+	- nome
+	- id-setor
+
+2. Setores
+	- id-setor
+	- setor
+
+3. Atendentes
+	- id-atendente
+	- nome
+
+4. Atendimentos (demandas)
+	- id-demanda
+	- descricao-demanda
+	- custo
+	- id-usuario
+	- id-atendente
+	- data-cadastro
+	- data-previsao-atendimento
+	- data-termino-atendimento
+	- observacoes
+
+Desenvolvimento:
+
+1. Comando SQL-Server para criar e povoar Usuários (10); Setores (3); Atendentes (5)
+2. Página para cadastro (incluir, alterar, deletar) demandas
+3. Página para pesquisar demandas (data-cadastro, pendentes, finalizadas, por usuário, por atendente), com grade dos registros e somatória de custos
+
+Diretriz tecnológica: usar SQLServer, PHP, Javascript, HTML, etc, em qualquer editor. Windows-IIS
+
+Enviar os fontes e os comandos SQL para eu instalar em meu computador e verificar.
+
+Favor fazer o mais próximo possível do modelo que te mandei, se possível colocando no mesmo programa a conexaão, comandos sql, php e html.
+
+OK?
