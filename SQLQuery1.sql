@@ -1,6 +1,6 @@
-create database EstudosWE;
+--create database EstudosWE;
 
-use EstudosWE;
+--use EstudosWE;
 
 
 CREATE TABLE usuario(
